@@ -11,5 +11,3 @@ It contains basic information about the project and how to use Git for version c
 - I'm adding  this 'feature' branch to demonstrate Git functionality.
 
 
-
-
