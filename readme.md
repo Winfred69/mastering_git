@@ -1,3 +1,6 @@
+## Hayoo guy welcome to my GitHub repository!... and Oops, I forgot to mention that this is a sample README file for demonstrating Git features.
+
+you can use this file to learn how to create branches, make commits, and merge changes in Git. and is Dev-kali.
 ## Wellcome to my Git repository!
 
 This is comming from dev-wing
