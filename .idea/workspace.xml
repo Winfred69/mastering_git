@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b95ebf2d-87f9-4931-a9be-9d9a6dbb5bd9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/ELUBATEL-11/Desktop/Git &amp; GitHub" value="38lDeGI7WcjXx6fPtXGnDWB92Dz" />
+      <entry key="_E:/MASTER OF ALL/Git &amp; GitHub" value="38POfbWi5OhmBbbKTglMBHGvpoK" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="13" />
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Winfred69&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="branchesCleanupHistory">
+      <BranchesCleanupHistory>
+        <option name="history">
+          <list>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="4d63ecefd42faed26bbdc3e63c2f654a2184b5b5" />
+                    <option name="name" value="feature-branchv01" />
+                  </BranchDeletion>
+                  <BranchDeletion>
+                    <option name="hash" value="c5eb5362535f76db2f7ac56e0f4bab9be0f4fb53" />
+                    <option name="name" value="dev-jsm" />
+                  </BranchDeletion>
+                  <BranchDeletion>
+                    <option name="hash" value="f0ff726f94adef7fd910764eac4b31e34c5a14a3" />
+                    <option name="name" value="branch-el1" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1774817462156" />
+            </BranchCleanupEntry>
+          </list>
+        </option>
+      </BranchesCleanupHistory>
+    </option>
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1774821393" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature-one" />
+                    <option name="lastUsedInstant" value="1774818032" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="winns" />
+                    <option name="lastUsedInstant" value="1774817915" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev-winfred" />
+                    <option name="lastUsedInstant" value="1774816556" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Winfred69/mastering_git.git&quot;,
+    &quot;accountId&quot;: &quot;d616f06a-3b85-4926-acf5-b721a7ed69f4&quot;
+  }
+}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="38POfbWi5OhmBbbKTglMBHGvpoK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Learn/Git &amp; GitHub&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b95ebf2d-87f9-4931-a9be-9d9a6dbb5bd9" name="Changes" comment="" />
+      <created>1768697849361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768697849361</updated>
+      <workItem from="1768697853844" duration="148000" />
+      <workItem from="1768698083645" duration="127000" />
+      <workItem from="1768698239048" duration="76000" />
+      <workItem from="1768698336241" duration="10557000" />
+      <workItem from="1768863317965" duration="9213000" />
+      <workItem from="1769033688624" duration="102000" />
+      <workItem from="1769054056724" duration="25000" />
+      <workItem from="1769054553350" duration="57000" />
+      <workItem from="1769126698546" duration="375000" />
+      <workItem from="1769127104259" duration="2204000" />
+      <workItem from="1769130821401" duration="27000" />
+      <workItem from="1769130868510" duration="93000" />
+      <workItem from="1769130984649" duration="333000" />
+      <workItem from="1769131626412" duration="70000" />
+      <workItem from="1769131770582" duration="3282000" />
+      <workItem from="1769199840916" duration="592000" />
+      <workItem from="1769241447140" duration="208000" />
+      <workItem from="1769241704839" duration="448000" />
+      <workItem from="1769277208791" duration="300000" />
+      <workItem from="1769280233729" duration="1276000" />
+      <workItem from="1769299718267" duration="84000" />
+      <workItem from="1769365359399" duration="608000" />
+      <workItem from="1769366058120" duration="1507000" />
+      <workItem from="1770251743312" duration="1006000" />
+      <workItem from="1770317890344" duration="27000" />
+      <workItem from="1770490272352" duration="289000" />
+      <workItem from="1770490647253" duration="34000" />
+      <workItem from="1773878173202" duration="1569000" />
+      <workItem from="1774231387123" duration="815000" />
+      <workItem from="1774232286393" duration="130000" />
+      <workItem from="1774402704288" duration="1057000" />
+      <workItem from="1774562554989" duration="116000" />
+      <workItem from="1774748974960" duration="81000" />
+      <workItem from="1774798688607" duration="1353000" />
+      <workItem from="1774814214937" duration="1376000" />
+      <workItem from="1774815635007" duration="7156000" />
+      <workItem from="1774822890372" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
