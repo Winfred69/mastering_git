@@ -7,4 +7,6 @@ It contains basic information about the project and how to use Git for version c
 
 -this is coming from 'dec-winfred' branch.
 -Yoo, Rangel here!!!
-- I'm adding  this 'feature' branch to demonstrate Git functionality.
+ I'm adding  this 'feature' branch to demonstrate Git functionality.
+
+Adding this to feature-one. I like to remember what I have lean.
