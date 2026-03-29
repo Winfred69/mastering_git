@@ -1,6 +1,6 @@
 ## Wellcome to my Git repository!
 
-This is comming from dev-wing
+This is comming from dev-win
 I'm adding this feature branchv01
 This is a sample README file for demonstrating Git features.
 It contains basic information about the project and how to use Git for version control.
