@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="4cbda768-85d1-4b80-a5b0-8f349d0389c9" name="Changes" comment="" />
     <list default="true" id="b95ebf2d-87f9-4931-a9be-9d9a6dbb5bd9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -20,6 +21,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="GitToolBoxStore">
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_C:/Users/ELUBATEL-11/Desktop/Git &amp; GitHub" value="38lDeGI7WcjXx6fPtXGnDWB92Dz" />
@@ -75,10 +77,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="dev-wing" />
-                    <option name="lastUsedInstant" value="1774823502" />
+                    <option name="branchName" value="dev-kali" />
+                    <option name="lastUsedInstant" value="1774824299" />
                   </RecentBranch>
                   <RecentBranch>
+                    <option name="branchName" value="dev-wing" />
+                    <option name="lastUsedInstant" value="1774824298" />
                     <option name="branchName" value="main" />
                     <option name="lastUsedInstant" value="1774821393" />
                   </RecentBranch>
